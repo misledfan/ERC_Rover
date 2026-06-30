@@ -1,11 +1,10 @@
 #The Integrators - ROS2 Turltebot3 Independant Maneuvarability, collision avoidance and Object detection code (Single target)
-
 # An autonomous ROS2 TurtleBot3 node that uses YOLOv8 for object detection (trash hunting), LiDAR for obstacle avoidance, and Flask for live video streaming.
 
 #!/usr/bin/env python3  
 
 # The Integrators: Turtlebot Functionality Code (Try30) 
-
+# Author = Safwaan Syed , Joud Almomani, Keren Sara John.
 
 import rclpy  
 
